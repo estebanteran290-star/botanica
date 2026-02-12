@@ -1,0 +1,192 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Botánica General | Plataforma Académica</title>
+
+<style>
+body{
+    margin:0;
+    font-family:'Segoe UI', sans-serif;
+    background:#f2f5f7;
+    color:#2c3e50;
+}
+
+header{
+    background:linear-gradient(135deg,#1b3a4b,#284b63);
+    color:white;
+    padding:50px;
+    text-align:center;
+}
+
+header h1{
+    margin:0;
+    font-size:36px;
+}
+
+.container{
+    display:flex;
+}
+
+.sidebar{
+    width:260px;
+    background:#1b3a4b;
+    color:white;
+    height:100vh;
+    position:sticky;
+    top:0;
+    padding-top:20px;
+}
+
+.sidebar a{
+    display:block;
+    padding:15px;
+    color:white;
+    text-decoration:none;
+    border-bottom:1px solid rgba(255,255,255,0.1);
+}
+
+.sidebar a:hover{
+    background:#284b63;
+}
+
+.content{
+    flex:1;
+    padding:40px;
+}
+
+.section{
+    margin-bottom:60px;
+    animation:fadeIn 0.8s ease-in;
+}
+
+@keyframes fadeIn{
+    from{opacity:0; transform:translateY(15px);}
+    to{opacity:1; transform:translateY(0);}
+}
+
+.section img{
+    width:100%;
+    max-width:650px;
+    border-radius:10px;
+    margin:20px 0;
+}
+
+.card{
+    background:white;
+    padding:20px;
+    border-left:5px solid #1b3a4b;
+    margin:20px 0;
+    box-shadow:0 5px 15px rgba(0,0,0,0.05);
+}
+
+button{
+    background:#1b3a4b;
+    color:white;
+    padding:10px 20px;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+button:hover{
+    background:#284b63;
+}
+
+.timeline{
+    border-left:3px solid #1b3a4b;
+    padding-left:20px;
+}
+
+.timeline div{
+    margin-bottom:20px;
+}
+</style>
+
+<script>
+function toggleInfo(id){
+    var x=document.getElementById(id);
+    if(x.style.display==="none"){
+        x.style.display="block";
+    }else{
+        x.style.display="none";
+    }
+}
+</script>
+
+</head>
+
+<body>
+
+<header>
+<h1>Botánica General</h1>
+<p>Fundamentos estructurales, funcionales y sistemáticos de las plantas</p>
+</header>
+
+<div class="container">
+
+<div class="sidebar">
+<a href="#cap1">Fundamentos</a>
+<a href="#cap2">Historia</a>
+<a href="#cap3">Célula Vegetal</a>
+<a href="#cap4">Anatomía</a>
+<a href="#cap5">Fisiología</a>
+</div>
+
+<div class="content">
+
+<div class="section" id="cap1">
+<h2>Capítulo 1 — Fundamentos de la Botánica</h2>
+<p>La botánica estudia la estructura, función, evolución y clasificación de las plantas. Es una ciencia base para la comprensión de los ecosistemas terrestres.</p>
+<div class="card">
+<strong>Dato clave:</strong> Las plantas representan más del 80% de la biomasa del planeta.
+</div>
+<button onclick="toggleInfo('extra1')">Ver ampliación</button>
+<div id="extra1" style="display:none;">
+<p>La fotosíntesis convierte energía solar en energía química, sosteniendo las cadenas tróficas y regulando el ciclo del carbono.</p>
+</div>
+</div>
+
+<div class="section" id="cap2">
+<h2>Capítulo 2 — Historia de la Botánica</h2>
+<div class="timeline">
+<div><strong>Siglo IV a.C.</strong> – Teofrasto clasifica plantas.</div>
+<div><strong>Siglo XVII</strong> – Invención del microscopio.</div>
+<div><strong>Siglo XVIII</strong> – Linneo desarrolla la nomenclatura binomial.</div>
+</div>
+<div class="card">
+La botánica moderna integra genética, ecología y biotecnología.
+</div>
+</div>
+
+<div class="section" id="cap3">
+<h2>Capítulo 3 — Célula Vegetal</h2>
+<p>La célula vegetal posee pared celular, cloroplastos y vacuola central.</p>
+<div class="card">
+<strong>Dato científico:</strong> Los cloroplastos tienen ADN propio de origen endosimbiótico.
+</div>
+</div>
+
+<div class="section" id="cap4">
+<h2>Capítulo 4 — Anatomía Vegetal</h2>
+<p>Incluye tejidos meristemáticos, fundamentales y vasculares (xilema y floema).</p>
+<div class="card">
+El xilema puede transportar agua a grandes alturas en árboles como las secuoyas.
+</div>
+</div>
+
+<div class="section" id="cap5">
+<h2>Capítulo 5 — Fisiología Vegetal</h2>
+<p>Procesos como fotosíntesis, respiración y transpiración permiten la conversión y distribución de energía.</p>
+<div class="card">
+Rutas adaptativas C3, C4 y CAM permiten sobrevivir en diferentes condiciones climáticas.
+</div>
+</div>
+
+</div>
+</div>
+
+</body>
+</html>
