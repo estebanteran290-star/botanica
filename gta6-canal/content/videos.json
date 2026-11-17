@@ -1,0 +1,524 @@
+[
+  {
+    "id": "v01",
+    "slug": "a-que-hora-sale-gta-6",
+    "accent": "#ff2e88",
+    "title": "¿A QUÉ HORA SALE GTA 6? Horario exacto, precarga y parches del día 1",
+    "thumb": { "top": "¿A QUÉ HORA", "big": "SALE GTA 6?", "badge": "00:00" },
+    "tags": ["gta 6", "gta 6 hora", "a que hora sale gta 6", "gta 6 horario", "gta 6 precarga", "gta 6 parche dia 1", "gta vi", "gta 6 lanzamiento"],
+    "scenes": [
+      { "type": "title", "kicker": "LANZAMIENTO", "title": "¿A QUÉ HORA SALE GTA 6?", "subtitle": "Horario, precarga y parches del día uno", "chapter": "Intro",
+        "narration": [
+          "Ya está aquí. GTA seis sale este jueves, diecinueve de noviembre, y la pregunta que todo el mundo se hace es una sola: ¿a qué hora puedo empezar a jugar?",
+          "En este vídeo te lo dejo clarísimo, junto con todo lo que tienes que hacer antes para no perder ni un minuto."
+        ] },
+      { "type": "stat", "heading": "FECHA OFICIAL", "value": "19 NOV 2026", "note": "PS5 · Xbox Series X|S", "chapter": "Fecha oficial",
+        "narration": [
+          "La fecha oficial es el jueves diecinueve de noviembre de dos mil veintiséis, en PlayStation cinco y en Xbox Series X y Series S.",
+          "Rockstar mantuvo esta fecha después del retraso que la movió desde mayo, y no hay señales de un nuevo cambio."
+        ] },
+      { "type": "clocks", "heading": "SE DESBLOQUEA A LAS 00:00, HORA LOCAL", "note": "La noche del miércoles 18 al jueves 19", "chapter": "Hora por país",
+        "rows": [
+          { "place": "España", "time": "00:00", "day": "jue 19" },
+          { "place": "México", "time": "00:00", "day": "jue 19" },
+          { "place": "Colombia", "time": "00:00", "day": "jue 19" },
+          { "place": "Argentina", "time": "00:00", "day": "jue 19" },
+          { "place": "Chile", "time": "00:00", "day": "jue 19" },
+          { "place": "Perú", "time": "00:00", "day": "jue 19" }
+        ],
+        "narration": [
+          "Según Rockstar, el juego se desbloquea a medianoche, hora local, tanto en PlayStation como en Xbox.",
+          "Eso significa que puedes jugar cuando en tu reloj den las doce de la noche del miércoles dieciocho al jueves diecinueve.",
+          "Da igual si estás en España, México, Colombia, Argentina, Chile o Perú: la regla es la misma, la medianoche de tu zona horaria.",
+          "Un detalle: algunos medios avisan de que ciertas tiendas podrían mostrar horarios distintos, así que revisa la ficha del juego en tu tienda."
+        ] },
+      { "type": "stat", "heading": "PRECARGA DIGITAL", "value": "212", "unit": "GB", "note": "Espacio máximo necesario según tu consola", "chapter": "Precarga",
+        "narration": [
+          "Si compraste la versión digital, la precarga ya está disponible.",
+          "Rockstar pide hasta doscientos doce gigas libres, según tu consola, así que revisa tu almacenamiento hoy mismo, no el miércoles por la noche.",
+          "Con la precarga hecha, a medianoche el juego se desbloquea y empiezas al instante."
+        ] },
+      { "type": "bullets", "heading": "PARCHES DEL DÍA UNO", "chapter": "Parches día 1",
+        "items": ["Versión 01.002.000 · ~1 GB en PS5", "Versión 01.002.001 · ~600 MB en PS5", "En Xbox pesan algo más", "Sin notas oficiales del parche todavía"],
+        "narration": [
+          "Y ojo, porque ya hay actualizaciones del día uno.",
+          "La primera, la versión uno punto cero cero dos, pesa alrededor de un giga en PlayStation cinco.",
+          "La segunda ronda los seiscientos megas en la misma consola.",
+          "En Xbox, según los reportes, son algo más pesadas.",
+          "Estos tamaños vienen de reportes de prensa y no de Rockstar, que todavía no ha publicado notas del parche."
+        ] },
+      { "type": "checklist", "heading": "CHECKLIST PARA EL MIÉRCOLES", "chapter": "Checklist",
+        "items": ["Libera hasta 212 GB", "Confirma la precarga al 100 %", "Instala las actualizaciones", "Reposo con descargas activas", "Consola en español"],
+        "narration": [
+          "Así que te dejo la lista para el miércoles.",
+          "Primero, libera espacio.",
+          "Segundo, confirma que la precarga está al cien por cien.",
+          "Tercero, instala todas las actualizaciones pendientes.",
+          "Cuarto, deja la consola en reposo con las descargas activas para que se actualice sola.",
+          "Y quinto, pon tu consola en español para tener los subtítulos en tu idioma desde el primer minuto."
+        ] },
+      { "type": "outro", "text": "Nos vemos a medianoche", "chapter": "Final",
+        "narration": [
+          "Si este vídeo te ha servido, suscríbete y activa la campanita, porque esta semana subimos todo lo que necesitas para dominar Leonida desde el primer día. Nos vemos a medianoche."
+        ] }
+    ]
+  },
+  {
+    "id": "v02",
+    "slug": "precio-gta-6-ediciones",
+    "accent": "#00e5ff",
+    "title": "¿CUÁNTO CUESTA GTA 6? Estándar vs Ultimate: cuál comprar (precios en $, € y MXN)",
+    "thumb": { "top": "¿CUÁNTO CUESTA", "big": "GTA 6?", "badge": "$79,99" },
+    "tags": ["gta 6 precio", "cuanto cuesta gta 6", "gta 6 ultimate edition", "gta 6 edicion estandar", "gta 6 precio mexico", "gta 6 precio españa", "gta 6 reserva bonus", "gta 6"],
+    "scenes": [
+      { "type": "title", "kicker": "GUÍA DE COMPRA", "title": "¿CUÁNTO CUESTA GTA 6?", "subtitle": "Estándar vs Ultimate: cuál comprar", "chapter": "Intro",
+        "narration": [
+          "¿Cuánto cuesta GTA seis y qué edición te conviene comprar?",
+          "Te lo explico rápido, con precios en dólares, euros y pesos mexicanos, para que no pagues de más."
+        ] },
+      { "type": "compare", "heading": "SOLO HAY DOS EDICIONES", "chapter": "Ediciones",
+        "left": { "title": "ESTÁNDAR", "price": "79,99 US$", "items": ["Juego completo", "Digital o código en caja", "Misma historia"] },
+        "right": { "title": "ULTIMATE", "price": "99,99 US$", "items": ["Juego completo", "Solo digital", "Vehículos y garajes extra", "Más personalización"] },
+        "narration": [
+          "Rockstar lanzó solo dos ediciones: la Estándar y la Ultimate.",
+          "La Estándar cuesta setenta y nueve dólares con noventa y nueve.",
+          "La Ultimate sube a noventa y nueve dólares con noventa y nueve, y es solo digital.",
+          "Y no, no hay edición especial ni edición de coleccionista física."
+        ] },
+      { "type": "bullets", "heading": "PRECIOS POR REGIÓN", "chapter": "Precios por región",
+        "items": ["EE. UU.: 79,99 / 99,99 US$", "España y zona euro: 79,99 / 99,99 €", "México: ~1.499 / ~1.879 MXN", "Reino Unido: 69,99 / 89,99 £"],
+        "narration": [
+          "Así quedan los precios por región, primero la Estándar y luego la Ultimate.",
+          "En Estados Unidos, setenta y nueve con noventa y nueve, y noventa y nueve con noventa y nueve dólares.",
+          "En España y la zona euro, las mismas cifras, pero en euros.",
+          "En México, alrededor de mil cuatrocientos noventa y nueve pesos la Estándar y mil ochocientos setenta y nueve la Ultimate, ya con impuestos.",
+          "Y en Reino Unido, sesenta y nueve con noventa y nueve, y ochenta y nueve con noventa y nueve libras."
+        ] },
+      { "type": "alert", "tone": "warn", "heading": "OJO CON EL «CÓDIGO EN CAJA»", "text": "La versión física estándar trae un código de descarga, no un disco.", "chapter": "Versión física",
+        "narration": [
+          "Cuidado con un detalle importante.",
+          "Según varias tiendas, la versión física estándar es un código en caja: dentro no hay un disco, sino un código de descarga.",
+          "Así que, aunque la compres en tienda, vas a necesitar espacio libre y conexión a internet."
+        ] },
+      { "type": "bullets", "heading": "BONUS DE RESERVA: VINTAGE VICE CITY PACK", "chapter": "Bonus de reserva",
+        "items": ["Vapid Stanier del 55", "Garaje Shore Court", "Ropa y peinados para Jason y Lucía", "Patrón de arma exclusivo", "+1 mes de GTA+ (reserva digital)"],
+        "narration": [
+          "Si lo compras antes del lanzamiento, en cualquier edición, te llevas el paquete Vintage Vice City.",
+          "Incluye un Vapid Stanier del cincuenta y cinco.",
+          "El garaje Shore Court.",
+          "Ropa y peinados para Jason y Lucía.",
+          "Un patrón de arma exclusivo.",
+          "Y si reservas en digital, además, un mes de GTA plus.",
+          "Algunas tiendas cierran este bonus el diecinueve y otras el veinte de noviembre, así que no lo dejes para el final."
+        ] },
+      { "type": "bullets", "heading": "ENTONCES, ¿CUÁL COMPRO?", "chapter": "¿Cuál compro?",
+        "items": ["Solo quieres la historia → Estándar", "Quieres todos los extras → Ultimate", "¿Dudas? Mejora a Ultimate después"],
+        "narration": [
+          "Entonces, ¿cuál te compras?",
+          "Si lo que quieres es jugar la historia, la Estándar es más que suficiente: el juego es exactamente el mismo.",
+          "Si te encantan los coches, los garajes y los extras, la Ultimate te da contenido adicional, pero ninguna ventaja de jugabilidad.",
+          "Y si dudas, tranquilo: la mejora a Ultimate se puede comprar más adelante."
+        ] },
+      { "type": "outro", "text": "¿Cuál te compraste?", "chapter": "Final",
+        "narration": [
+          "¿Qué edición te compraste tú? Déjalo en los comentarios, suscríbete, y nos vemos en Leonida."
+        ] }
+    ]
+  },
+  {
+    "id": "v03",
+    "slug": "gta-6-en-espanol",
+    "accent": "#ffd23f",
+    "title": "¿GTA 6 ESTÁ EN ESPAÑOL? Doblaje, subtítulos y cómo activarlos en PS5 y Xbox",
+    "thumb": { "top": "¿GTA 6 ESTÁ", "big": "EN ESPAÑOL?", "badge": "ES" },
+    "tags": ["gta 6 español", "gta 6 doblaje latino", "gta 6 subtitulos", "gta 6 idioma", "gta 6 en español latino", "como poner gta 6 en español", "gta 6"],
+    "scenes": [
+      { "type": "title", "kicker": "IDIOMAS", "title": "¿GTA 6 ESTÁ EN ESPAÑOL?", "subtitle": "Doblaje, subtítulos y cómo activarlos", "chapter": "Intro",
+        "narration": [
+          "¿GTA seis viene doblado al español?",
+          "Es una de las preguntas más buscadas de todo el lanzamiento, y la respuesta corta quizá no te guste, pero tiene truco."
+        ] },
+      { "type": "alert", "tone": "warn", "heading": "SIN DOBLAJE AL ESPAÑOL", "text": "Las voces siguen en inglés, como en toda la saga.", "chapter": "Doblaje",
+        "narration": [
+          "Según la información disponible, el juego no tiene doblaje al español, ni latino ni de España.",
+          "Las voces van en inglés, igual que en el resto de la saga."
+        ] },
+      { "type": "compare", "heading": "PERO SÍ HAY SUBTÍTULOS, EN DOS VARIANTES", "chapter": "Subtítulos",
+        "left": { "title": "ESPAÑOL DE MÉXICO", "price": "SUBS", "items": ["Subtítulos en español", "Variante latinoamericana"] },
+        "right": { "title": "ESPAÑOL DE ESPAÑA", "price": "SUBS", "items": ["Subtítulos en español", "Variante castellana"] },
+        "narration": [
+          "La buena noticia es que sí hay subtítulos en español, y vienen en dos variantes.",
+          "Por un lado, español de México, pensado para Latinoamérica.",
+          "Por otro, español de España.",
+          "Cada una con sus expresiones, para que los diálogos suenen como en tu barrio."
+        ] },
+      { "type": "checklist", "heading": "CÓMO ACTIVARLOS", "chapter": "Cómo activarlos",
+        "items": ["PS5: Ajustes → Sistema → Idioma", "Xbox: Configuración → Sistema → Idioma y ubicación", "Reinicia el juego tras cambiarlo"],
+        "narration": [
+          "¿Y cómo se activan? El juego toma el idioma de tu consola.",
+          "En PlayStation cinco, ve a Ajustes, Sistema, Idioma.",
+          "En Xbox, entra en Configuración, Sistema, Idioma y ubicación, y elige tu idioma y tu región.",
+          "Hazlo antes de abrir el juego por primera vez, y si ya lo abriste, reinícialo después del cambio."
+        ] },
+      { "type": "bullets", "heading": "CONSEJOS RÁPIDOS", "chapter": "Consejos",
+        "items": ["Revisa las opciones de subtítulos al empezar", "¿Se leen pequeños? Ajusta la imagen de tu TV", "Disfruta las voces originales"],
+        "narration": [
+          "Y unos consejos rápidos.",
+          "Revisa el menú de opciones del juego en cuanto empieces, para dejar los subtítulos a tu gusto.",
+          "Si los ves pequeños, revisa el modo de imagen y la escala de tu tele.",
+          "Y disfruta las voces originales: el ambiente de Vice City suena a Miami, y eso es parte de la gracia."
+        ] },
+      { "type": "outro", "text": "Comparte con tu grupo", "chapter": "Final",
+        "narration": [
+          "Pásale este vídeo a ese amigo que todavía pregunta si viene en español. Suscríbete, y nos vemos en Leonida."
+        ] }
+    ]
+  },
+  {
+    "id": "v04",
+    "slug": "mapa-gta-6-leonida-regiones",
+    "accent": "#3dff9a",
+    "title": "EL MAPA DE GTA 6: las 6 regiones de Leonida explicadas (Vice City y más)",
+    "thumb": { "top": "EL MAPA DE", "big": "GTA 6", "badge": "6 REGIONES" },
+    "tags": ["gta 6 mapa", "mapa gta 6", "leonida", "vice city", "gta 6 regiones", "gta 6 leonida keys", "gta 6 grassrivers", "gta 6 port gellhorn", "gta 6"],
+    "scenes": [
+      { "type": "title", "kicker": "MAPA", "title": "EL MAPA DE GTA 6", "subtitle": "Las 6 regiones de Leonida explicadas", "chapter": "Intro",
+        "narration": [
+          "Este es el mundo de GTA seis: el estado de Leonida, la versión de Rockstar de Florida.",
+          "Rockstar ha confirmado seis regiones, y hoy te explico cada una para que sepas a dónde vas antes de llegar."
+        ] },
+      { "type": "map", "heading": "ESTADO DE LEONIDA", "sub": "Esquema orientativo · no es el mapa oficial", "chapter": "Leonida",
+        "narration": [
+          "Antes de nada, una aclaración.",
+          "Rockstar no ha publicado un mapa oficial completo, así que lo que ves es un esquema orientativo, no el mapa real del juego.",
+          "Lo que sí está confirmado son los nombres de las seis regiones."
+        ] },
+      { "type": "map", "highlight": "vice", "heading": "VICE CITY", "sub": "Inspirada en Miami", "chapter": "Vice City",
+        "narration": [
+          "La primera, y la estrella, es Vice City, la gran ciudad inspirada en Miami.",
+          "Rascacielos, playas, neones y vida nocturna: el centro de todo.",
+          "Vuelve por primera vez desde Vice City Stories, pero a una escala que la saga nunca había tenido."
+        ] },
+      { "type": "map", "highlight": "keys", "heading": "LEONIDA KEYS", "sub": "Inspirada en los Cayos de Florida", "chapter": "Leonida Keys",
+        "narration": [
+          "Al sur están los Leonida Keys, inspirados en los Cayos de Florida.",
+          "Islas, puentes interminables, barcos y aguas turquesas.",
+          "Aquí se mueve Brian Heder, un contrabandista clave del que hablamos en otro vídeo."
+        ] },
+      { "type": "map", "highlight": "grass", "heading": "GRASSRIVERS", "sub": "Inspirada en los Everglades", "chapter": "Grassrivers",
+        "narration": [
+          "Grassrivers es la zona de pantanos, inspirada en los Everglades.",
+          "Si viste los tráilers, ya sabes lo que te espera: caimanes, aguas oscuras y peligro escondido entre la hierba."
+        ] },
+      { "type": "map", "highlight": "ambrosia", "heading": "AMBROSIA", "sub": "Leonida rural e industrial", "chapter": "Ambrosia",
+        "narration": [
+          "Ambrosia es la Leonida rural e industrial, con la industria del azúcar como protagonista.",
+          "Según la comunidad, se inspira en la zona del lago Okeechobee."
+        ] },
+      { "type": "map", "highlight": "gellhorn", "heading": "PORT GELLHORN", "sub": "Inspirada en el Panhandle de Florida", "chapter": "Port Gellhorn",
+        "narration": [
+          "Port Gellhorn es una ciudad costera venida a menos, inspirada en Panama City y en el Panhandle de Florida."
+        ] },
+      { "type": "map", "highlight": "kalaga", "heading": "MOUNT KALAGA", "sub": "Parque nacional", "chapter": "Mount Kalaga",
+        "narration": [
+          "Y por último, el Parque Nacional Mount Kalaga: bosques, montañas y naturaleza salvaje, perfecto para perderse lejos de la ciudad."
+        ] },
+      { "type": "outro", "text": "¿Qué región exploras primero?", "chapter": "Final",
+        "narration": [
+          "¿Cuál será la primera región que vas a explorar? Te leo en los comentarios. Suscríbete, y nos vemos en Leonida."
+        ] }
+    ]
+  },
+  {
+    "id": "v05",
+    "slug": "jason-y-lucia-gta-6",
+    "accent": "#ff7a1a",
+    "title": "JASON Y LUCÍA: quiénes son los protagonistas de GTA 6 (sin spoilers)",
+    "thumb": { "top": "QUIÉNES SON", "big": "JASON Y LUCÍA", "badge": "SIN SPOILERS" },
+    "tags": ["gta 6 jason", "gta 6 lucia", "jason y lucia gta 6", "protagonistas gta 6", "gta 6 historia", "lucia caminos", "jason duval", "gta 6"],
+    "scenes": [
+      { "type": "title", "kicker": "PROTAGONISTAS", "title": "JASON Y LUCÍA", "subtitle": "Quiénes son (sin spoilers)", "chapter": "Intro",
+        "narration": [
+          "Por primera vez, una pareja protagoniza un GTA.",
+          "Ellos son Jason y Lucía, y esto es todo lo que sabemos de ellos sin destripar la historia."
+        ] },
+      { "type": "card", "name": "LUCÍA CAMINOS", "role": "Acaba de salir de la Penitenciaría de Leonida", "tag": "PROTAGONISTA", "initials": "LC", "chapter": "Lucía Caminos",
+        "narration": [
+          "Lucía Caminos es la primera protagonista femenina de un GTA en tres dimensiones.",
+          "Según Rockstar, su padre le enseñó a pelear casi antes de que supiera caminar.",
+          "Luchar por su familia la llevó a la Penitenciaría de Leonida, y ahora que ha salido, no piensa volver."
+        ] },
+      { "type": "card", "name": "JASON DUVAL", "role": "Solo quiere una vida fácil", "tag": "PROTAGONISTA", "initials": "JD", "chapter": "Jason Duval",
+        "narration": [
+          "Jason Duval creció rodeado de estafadores y delincuentes.",
+          "Pasó por el ejército para intentar enderezar su vida, pero acabó en los Keys, trabajando para gente que vive del contrabando.",
+          "Lo que busca es una vida fácil, pero las cosas no paran de complicarse."
+        ] },
+      { "type": "bullets", "heading": "UNA PAREJA FUERA DE LA LEY", "chapter": "La pareja",
+        "items": ["Dos protagonistas, una misma historia", "Golpes y huidas en pareja", "¿Pueden confiar el uno en el otro?"],
+        "narration": [
+          "Desde el primer tráiler, Rockstar los presenta como una especie de Bonnie y Clyde modernos.",
+          "Dos protagonistas que comparten una misma historia.",
+          "Golpes, robos y huidas en pareja.",
+          "Y una pregunta que sobrevuela todo: cuando las cosas salen mal, ¿pueden confiar el uno en el otro?"
+        ] },
+      { "type": "timeline", "heading": "CÓMO LOS HEMOS CONOCIDO", "chapter": "Los tráilers",
+        "items": [ { "year": "DIC 2023", "label": "Tráiler 1" }, { "year": "MAY 2025", "label": "Tráiler 2" }, { "year": "AGO 2026", "label": "Tráiler 3" } ],
+        "narration": [
+          "Y así los hemos ido conociendo.",
+          "Los vimos por primera vez en el tráiler uno, en diciembre de dos mil veintitrés.",
+          "El tráiler dos, en mayo de dos mil veinticinco, nos mostró mucho más de su relación.",
+          "Y en agosto de dos mil veintiséis llegó el tercero, con un vistazo mucho más extenso."
+        ] },
+      { "type": "outro", "text": "¿Team Jason o Team Lucía?", "chapter": "Final",
+        "narration": [
+          "¿Tú eres del equipo Jason o del equipo Lucía? Déjalo en los comentarios, suscríbete, y nos vemos en Leonida."
+        ] }
+    ]
+  },
+  {
+    "id": "v06",
+    "slug": "personajes-gta-6",
+    "accent": "#b46bff",
+    "title": "TODOS LOS PERSONAJES DE GTA 6: los secundarios que tienes que conocer",
+    "thumb": { "top": "TODOS LOS", "big": "PERSONAJES", "badge": "GTA 6" },
+    "tags": ["gta 6 personajes", "personajes gta 6", "cal hampton", "boobie ike", "dre'quan priest", "real dimez", "raul bautista", "brian heder", "gta 6"],
+    "scenes": [
+      { "type": "title", "kicker": "PERSONAJES", "title": "LOS PERSONAJES DE GTA 6", "subtitle": "Los secundarios que tienes que conocer", "chapter": "Intro",
+        "narration": [
+          "Jason y Lucía no están solos.",
+          "Rockstar ya presentó a varios personajes secundarios que van a marcar su historia. Estos son los que tienes que conocer antes de empezar."
+        ] },
+      { "type": "card", "name": "CAL HAMPTON", "role": "Amigo de Jason · Teórico de la conspiración", "tag": "ALIADO", "initials": "CH", "chapter": "Cal Hampton",
+        "narration": [
+          "Cal Hampton es amigo y compañero de Jason.",
+          "Desconfía de todo y de todos, y prefiere quedarse en casa con una cerveza escuchando lo que pasa en la radio de la guardia costera."
+        ] },
+      { "type": "card", "name": "BOOBIE IKE", "role": "Leyenda local de Vice City · Empresario", "tag": "VICE CITY", "initials": "BI", "chapter": "Boobie Ike",
+        "narration": [
+          "Boobie Ike es una leyenda local de Vice City.",
+          "Pasó de la calle a los negocios: inmuebles, un club y un sello discográfico."
+        ] },
+      { "type": "card", "name": "DRE'QUAN PRIEST", "role": "Fundador de Only Raw Records", "tag": "MÚSICA", "initials": "DP", "chapter": "Dre'Quan Priest",
+        "narration": [
+          "Dre'Quan Priest dirige Only Raw Records junto a Boobie.",
+          "Su obsesión es encontrar el próximo gran éxito de la escena de Vice City."
+        ] },
+      { "type": "card", "name": "REAL DIMEZ", "role": "Dúo de rap de Vice City", "tag": "MÚSICA", "initials": "RD", "chapter": "Real Dimez",
+        "narration": [
+          "Real Dimez es un dúo de raperas de Vice City que busca dar el salto a la fama.",
+          "Y en el mundo de GTA, la fama siempre trae problemas."
+        ] },
+      { "type": "card", "name": "RAUL BAUTISTA", "role": "Atracador de bancos veterano", "tag": "GOLPES", "initials": "RB", "chapter": "Raul Bautista",
+        "narration": [
+          "Raul Bautista es un atracador de bancos con mucha experiencia.",
+          "Siempre está buscando talento nuevo para su próximo golpe, y está dispuesto a arriesgar más que nadie."
+        ] },
+      { "type": "card", "name": "BRIAN HEDER", "role": "Contrabandista de los Leonida Keys", "tag": "KEYS", "initials": "BH", "chapter": "Brian Heder",
+        "narration": [
+          "Y Brian Heder, un contrabandista de los Keys que trabaja desde su astillero junto a su esposa, Lori.",
+          "Es una de las conexiones que mete a Jason en el mundo del crimen de Leonida."
+        ] },
+      { "type": "outro", "text": "¿Tu favorito?", "chapter": "Final",
+        "narration": [
+          "¿Cuál de todos te llama más la atención? Te leo en los comentarios. Suscríbete, y nos vemos en Leonida."
+        ] }
+    ]
+  },
+  {
+    "id": "v07",
+    "slug": "gta-6-pc-fecha",
+    "accent": "#4d7cff",
+    "title": "¿GTA 6 SALE EN PC? Fecha, rumores y si conviene esperar",
+    "thumb": { "top": "¿GTA 6 SALE", "big": "EN PC?", "badge": "2027?" },
+    "tags": ["gta 6 pc", "gta 6 pc fecha", "gta 6 steam", "gta 6 requisitos", "cuando sale gta 6 en pc", "gta 6"],
+    "scenes": [
+      { "type": "title", "kicker": "PC", "title": "¿GTA 6 SALE EN PC?", "subtitle": "Fecha, rumores y si conviene esperar", "chapter": "Intro",
+        "narration": [
+          "¿Va a salir GTA seis en PC? ¿Y cuándo?",
+          "Si juegas en ordenador, este vídeo es para ti: te cuento qué es oficial, qué es rumor y si conviene esperar."
+        ] },
+      { "type": "alert", "tone": "warn", "heading": "SIN FECHA EN PC", "text": "El 19 de noviembre sale solo en PS5 y Xbox Series X|S.", "chapter": "Lo oficial",
+        "narration": [
+          "Vamos directo: a día de hoy, Rockstar no ha dado fecha para la versión de PC.",
+          "El diecinueve de noviembre el juego sale solo en PlayStation cinco y en Xbox Series X y S.",
+          "Tampoco hay requisitos oficiales publicados, así que desconfía de cualquier lista de requisitos que veas por ahí."
+        ] },
+      { "type": "stat", "heading": "EL RUMOR", "value": "2027", "note": "GamesBeat apunta al primer trimestre de 2027 · Sin confirmar", "chapter": "El rumor",
+        "narration": [
+          "¿Y qué dicen los rumores?",
+          "En octubre, el medio GamesBeat publicó que Rockstar planearía lanzar la versión de PC en el primer trimestre de dos mil veintisiete.",
+          "Rockstar no lo ha comentado, así que tómalo como un rumor, no como una fecha."
+        ] },
+      { "type": "timeline", "heading": "LO QUE TARDÓ ROCKSTAR EN LLEGAR A PC", "chapter": "El historial",
+        "items": [ { "year": "GTA IV", "label": "~7 meses" }, { "year": "RDR 2", "label": "~1 año" }, { "year": "GTA V", "label": "~19 meses" } ],
+        "narration": [
+          "Si miramos la historia, Rockstar siempre lanza primero en consolas.",
+          "GTA cuatro tardó unos siete meses en llegar a PC.",
+          "Red Dead Redemption dos, poco más de un año.",
+          "Y GTA cinco, unos diecinueve meses."
+        ] },
+      { "type": "bullets", "heading": "¿ESPERAR O JUGAR EN CONSOLA?", "chapter": "¿Esperar?",
+        "items": ["¿Quieres jugar ya? → Consola", "¿Mods y máximo rendimiento? → Espera al PC", "Si esperas: cuidado con los spoilers"],
+        "narration": [
+          "Entonces, ¿qué haces?",
+          "Si quieres vivirlo el primer día con todo el mundo, la consola es la única opción.",
+          "Si lo tuyo son los mods y exprimir tu gráfica, toca esperar.",
+          "Y si esperas, silencia palabras clave en redes, porque los spoilers van a estar por todas partes."
+        ] },
+      { "type": "outro", "text": "¿Esperas o juegas ya?", "chapter": "Final",
+        "narration": [
+          "¿Tú vas a esperar a la versión de PC o lo juegas ya en consola? Te leo abajo. Suscríbete, y nos vemos en Leonida."
+        ] }
+    ]
+  },
+  {
+    "id": "v08",
+    "slug": "gta-6-online",
+    "accent": "#ff3b3b",
+    "title": "¿HAY GTA 6 ONLINE? Todo lo que se sabe del multijugador",
+    "thumb": { "top": "¿HAY GTA 6", "big": "ONLINE?", "badge": "MULTIJUGADOR" },
+    "tags": ["gta 6 online", "gta online 6", "gta 6 multijugador", "gta 6 online fecha", "gta plus", "gta 6"],
+    "scenes": [
+      { "type": "title", "kicker": "MULTIJUGADOR", "title": "¿HAY GTA 6 ONLINE?", "subtitle": "Todo lo que se sabe del multijugador", "chapter": "Intro",
+        "narration": [
+          "¿Cuándo llega el modo online de GTA seis?",
+          "Es la pregunta del millón para millones de jugadores, así que vamos con lo que se sabe y lo que no."
+        ] },
+      { "type": "alert", "tone": "info", "heading": "AL LANZAMIENTO: MODO HISTORIA", "text": "No hay fecha anunciada para el modo online.", "chapter": "Lo que se sabe",
+        "narration": [
+          "Según la información disponible, GTA seis llega el diecinueve de noviembre centrado en el modo historia.",
+          "No hay una fecha anunciada para su modo online."
+        ] },
+      { "type": "timeline", "heading": "EL PRECEDENTE: GTA V", "chapter": "El precedente",
+        "items": [ { "year": "17 SEP 2013", "label": "Sale GTA V" }, { "year": "1 OCT 2013", "label": "Llega GTA Online" }, { "year": "2026", "label": "Sigue activo" } ],
+        "narration": [
+          "Para hacernos una idea, miremos el pasado.",
+          "GTA cinco salió el diecisiete de septiembre de dos mil trece.",
+          "Su modo online llegó dos semanas después, el uno de octubre.",
+          "Y más de una década después, sigue siendo uno de los juegos más jugados del mundo."
+        ] },
+      { "type": "bullets", "heading": "¿Y GTA+?", "chapter": "GTA+",
+        "items": ["La reserva digital incluye 1 mes de GTA+", "Su papel en GTA 6 aún no está detallado"],
+        "narration": [
+          "Un detalle curioso.",
+          "La reserva digital del juego incluye un mes de GTA plus, la suscripción de Rockstar.",
+          "Qué papel tendrá exactamente en el nuevo juego es algo que Rockstar todavía no ha detallado."
+        ] },
+      { "type": "checklist", "heading": "MIENTRAS TANTO…", "chapter": "Mientras tanto",
+        "items": ["Exprime el modo historia", "Explora las 6 regiones", "Ojo con estafas de «acceso anticipado»"],
+        "narration": [
+          "Y mientras tanto, ¿qué hacemos?",
+          "Exprimir el modo historia, que promete ser enorme.",
+          "Explorar las seis regiones de Leonida con calma.",
+          "Y mucho cuidado con páginas o vídeos que prometan acceso anticipado al online: si no lo anuncia Rockstar, es una estafa."
+        ] },
+      { "type": "outro", "text": "Te avisamos el primer día", "chapter": "Final",
+        "narration": [
+          "En cuanto Rockstar anuncie algo del online, lo tendrás aquí. Suscríbete, activa la campanita, y nos vemos en Leonida."
+        ] }
+    ]
+  },
+  {
+    "id": "v09",
+    "slug": "prepara-tu-consola-gta-6",
+    "accent": "#00ffa3",
+    "title": "PREPARA TU CONSOLA PARA GTA 6: espacio (212 GB), ajustes y checklist del estreno",
+    "thumb": { "top": "PREPARA TU", "big": "CONSOLA", "badge": "212 GB" },
+    "tags": ["gta 6 espacio", "gta 6 cuanto pesa", "gta 6 212 gb", "gta 6 ps5", "gta 6 xbox series s", "gta 6 consejos", "gta 6"],
+    "scenes": [
+      { "type": "title", "kicker": "GUÍA RÁPIDA", "title": "PREPARA TU CONSOLA", "subtitle": "Espacio, ajustes y checklist del estreno", "chapter": "Intro",
+        "narration": [
+          "Faltan horas para GTA seis, y lo peor que te puede pasar es quedarte mirando una barra de descarga a medianoche.",
+          "En tres minutos dejamos tu consola lista."
+        ] },
+      { "type": "stat", "heading": "¿CUÁNTO PESA GTA 6?", "value": "212", "unit": "GB", "note": "Espacio máximo necesario según dispositivo · Rockstar", "chapter": "Cuánto pesa",
+        "narration": [
+          "Lo primero: el espacio.",
+          "Rockstar indica que la precarga necesita hasta doscientos doce gigas libres, según tu consola.",
+          "Y a eso súmale los parches del día uno, así que deja algo de margen."
+        ] },
+      { "type": "checklist", "heading": "CÓMO LIBERAR ESPACIO", "chapter": "Liberar espacio",
+        "items": ["Desinstala juegos que no juegas", "Borra capturas y clips antiguos", "Guarda juegos en un disco USB externo", "Amplía con un SSD o tarjeta de expansión"],
+        "narration": [
+          "¿Cómo liberas espacio sin dramas?",
+          "Desinstala los juegos que no estás jugando: tus partidas se quedan guardadas y podrás reinstalarlos cuando quieras.",
+          "Borra capturas y clips de vídeo antiguos, que ocupan más de lo que crees.",
+          "Mueve juegos que no uses a un disco duro externo por USB para guardarlos.",
+          "Y si te quedas corto, la solución definitiva es ampliar: un SSD compatible en PlayStation cinco, o una tarjeta de expansión en Xbox."
+        ] },
+      { "type": "checklist", "heading": "AJUSTES DE TU TV", "chapter": "Ajustes de TV",
+        "items": ["Activa el Modo Juego", "Calibra el HDR de la consola", "Usa el HDMI 2.1 si tu TV lo tiene"],
+        "narration": [
+          "Ahora, la tele.",
+          "Activa el modo juego para reducir el retraso de la imagen.",
+          "Calibra el HDR desde los ajustes de la consola, para que Vice City brille como debe.",
+          "Y si tu tele tiene un puerto HDMI dos punto uno, conecta ahí la consola."
+        ] },
+      { "type": "checklist", "heading": "LA NOCHE DEL ESTRENO", "chapter": "Noche del estreno",
+        "items": ["Precarga al 100 %", "Actualizaciones instaladas", "Mando cargado", "Spoilers silenciados en redes"],
+        "narration": [
+          "Y la checklist de la noche del estreno.",
+          "Precarga al cien por cien.",
+          "Actualizaciones instaladas.",
+          "Mando cargado, o con el cable a mano.",
+          "Y palabras clave silenciadas en redes sociales, para que nadie te arruine la historia."
+        ] },
+      { "type": "outro", "text": "Todo listo", "chapter": "Final",
+        "narration": [
+          "Con esto, estás listo para Leonida. Si te ha servido, dale a me gusta, suscríbete, y nos vemos a medianoche."
+        ] }
+    ]
+  },
+  {
+    "id": "v10",
+    "slug": "historia-saga-gta",
+    "accent": "#ff4fd8",
+    "title": "LA HISTORIA DE GTA EN 5 MINUTOS: de 1997 a GTA 6",
+    "thumb": { "top": "LA HISTORIA", "big": "DE GTA", "badge": "1997 → 2026" },
+    "tags": ["historia de gta", "saga gta", "gta vice city", "gta san andreas", "gta 5", "gta 6", "todos los gta"],
+    "scenes": [
+      { "type": "title", "kicker": "LA SAGA", "title": "LA HISTORIA DE GTA", "subtitle": "De 1997 a GTA 6", "chapter": "Intro",
+        "narration": [
+          "Antes de empezar GTA seis, merece la pena mirar atrás.",
+          "Casi treinta años de saga, en unos pocos minutos."
+        ] },
+      { "type": "timeline", "heading": "LOS INICIOS", "chapter": "1997–2001",
+        "items": [ { "year": "1997", "label": "GTA" }, { "year": "1999", "label": "GTA 2" }, { "year": "2001", "label": "GTA III" } ],
+        "narration": [
+          "Todo empezó en mil novecientos noventa y siete.",
+          "El primer GTA, creado por DMA Design en Escocia, se veía desde arriba y ya tenía la idea clave: una ciudad abierta y libertad total.",
+          "En mil novecientos noventa y nueve llegó GTA dos, con un futuro retro y bandas rivales.",
+          "Y en dos mil uno, GTA tres lo cambió todo: Liberty City en tres dimensiones. Había nacido el mundo abierto moderno."
+        ] },
+      { "type": "timeline", "heading": "LA ERA DORADA", "chapter": "2002–2004",
+        "items": [ { "year": "2002", "label": "Vice City" }, { "year": "2004", "label": "San Andreas" } ],
+        "narration": [
+          "Llegó la era dorada.",
+          "En dos mil dos, Vice City nos llevó a una Miami de mil novecientos ochenta y seis, con Tommy Vercetti, neones y una banda sonora legendaria.",
+          "En dos mil cuatro, San Andreas puso a CJ en tres ciudades y un estado entero. Para muchos, el mejor de la saga."
+        ] },
+      { "type": "timeline", "heading": "LA ERA MODERNA", "chapter": "2008–2013",
+        "items": [ { "year": "2008", "label": "GTA IV" }, { "year": "2013", "label": "GTA V" } ],
+        "narration": [
+          "Después, la era moderna.",
+          "En dos mil ocho, GTA cuatro volvió a Liberty City con Niko Bellic y un tono mucho más realista.",
+          "Y en dos mil trece, GTA cinco y sus tres protagonistas, Michael, Franklin y Trevor, se convirtieron en un fenómeno: más de mil millones de dólares en sus tres primeros días."
+        ] },
+      { "type": "stat", "heading": "TRÁILER 1 DE GTA 6", "value": "93M", "note": "visitas en YouTube en 24 horas · récord para un vídeo no musical", "chapter": "El regreso",
+        "narration": [
+          "Después llegó una espera de más de una década.",
+          "Cuando por fin se estrenó el primer tráiler de GTA seis, en diciembre de dos mil veintitrés, sumó unos noventa y tres millones de visitas en YouTube en veinticuatro horas, un récord para un vídeo que no es musical."
+        ] },
+      { "type": "title", "kicker": "2026", "title": "GTA 6", "subtitle": "Jason, Lucía y el regreso a Vice City", "chapter": "GTA 6",
+        "narration": [
+          "Y ahora, en dos mil veintiséis, la saga vuelve a Vice City con Jason y Lucía, en el mundo más grande que ha creado Rockstar.",
+          "Casi treinta años después, el círculo se cierra donde empezó la leyenda del neón."
+        ] },
+      { "type": "outro", "text": "¿Cuál es tu GTA favorito?", "chapter": "Final",
+        "narration": [
+          "¿Cuál es tu GTA favorito? Te leo en los comentarios. Suscríbete, y nos vemos en Leonida."
+        ] }
+    ]
+  }
+]
